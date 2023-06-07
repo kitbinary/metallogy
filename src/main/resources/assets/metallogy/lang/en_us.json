@@ -1,0 +1,52 @@
+{
+    "block.metallogy.tin_ore": "Tin Ore",
+    "block.metallogy.lead_ore": "Lead Ore",
+    "block.metallogy.silver_ore": "Silver Ore",
+    "block.metallogy.tungsten_ore": "Tungsten Ore",
+    "block.metallogy.platinum_ore": "Platinum Ore",
+
+    "item.metallogy.raw_tin": "Raw Tin",
+    "item.metallogy.raw_lead": "Raw Lead",
+    "item.metallogy.raw_silver": "Raw Silver",
+    "item.metallogy.raw_tungsten": "Raw Tungsten",
+    "item.metallogy.raw_platinum": "Raw Platinum",
+
+    "item.metallogy.tin_ingot": "Tin Ingot",
+    "item.metallogy.lead_ingot": "Lead Ingot",
+    "item.metallogy.silver_ingot": "Silver Ingot",
+    "item.metallogy.tungsten_ingot": "Tungsten Ingot",
+    "item.metallogy.platinum_ingot": "Platinum Ingot",
+
+    "item.metallogy.tin_nugget": "Tin Nugget",
+    "item.metallogy.lead_nugget": "Lead Nugget",
+    "item.metallogy.silver_nugget": "Silver Nugget",
+    "item.metallogy.tungsten_nugget": "Tungsten Nugget",
+    "item.metallogy.platinum_nugget": "Platinum Nugget",
+
+    "block.metallogy.tin_block": "Block of Tin",
+    "block.metallogy.lead_block": "Block of Lead",
+    "block.metallogy.silver_block": "Block of Silver",
+    "block.metallogy.tungsten_block": "Block of Tungsten",
+    "block.metallogy.platinum_block": "Block of Platinum",
+
+    "block.metallogy.raw_tin_block": "Block of Raw Tin",
+    "block.metallogy.raw_lead_block": "Block of Raw Lead",
+    "block.metallogy.raw_silver_block": "Block of Raw Silver",
+    "block.metallogy.raw_tungsten_block": "Block of Raw Tungsten",
+    "block.metallogy.raw_platinum_block": "Block of Raw Platinum",
+
+    "item.metallogy.tin_dust": "Tin Dust",
+    "item.metallogy.lead_dust": "Lead Dust",
+    "item.metallogy.silver_dust": "Silver Dust",
+    "item.metallogy.tungsten_dust": "Tungsten Dust",
+    "item.metallogy.platinum_dust": "Platinum Dust",
+    "item.metallogy.copper_dust": "Copper Dust",
+    "item.metallogy.iron_dust": "Iron Dust",
+    "item.metallogy.gold_dust": "Gold Dust",
+    "item.metallogy.lapis_dust": "Lapis Dust",
+    "item.metallogy.diamond_dust": "Diamond Dust",
+    "item.metallogy.emerald_dust": "Emerald Dust",
+    "item.metallogy.netherite_dust": "Netherite Dust",
+
+    "itemGroup.metallogy.general": "Metallogy"
+}
